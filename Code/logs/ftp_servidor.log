@@ -1,0 +1,4 @@
+2026-03-23 23:31:31 [INFO] concurrency model: async
+2026-03-23 23:31:31 [INFO] masquerade (NAT) address: None
+2026-03-23 23:31:31 [INFO] passive ports: 60000->60099
+2026-03-23 23:31:31 [INFO] >>> starting FTP server on 0.0.0.0:21, pid=16472 <<<

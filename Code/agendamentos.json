@@ -1,0 +1,11 @@
+{
+  "17F16DDD": {
+    "protocolo": "17F16DDD",
+    "paciente": "Rubens",
+    "tipo": "Exame",
+    "data": "24/02/21\b018",
+    "hora": "17:20",
+    "status": "CANCELADO",
+    "criado_em": "2026-03-16 10:03:46"
+  }
+}
